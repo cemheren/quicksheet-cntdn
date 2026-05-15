@@ -1,0 +1,9 @@
+{
+  "name": "quicksheet-cntdn",
+  "prefix": "cntdn",
+  "displayName": "Countdown Timer",
+  "version": "1.0.0",
+  "description": "Countdown to important dates — deadlines, launches, holidays, birthdays. Shows days, hours, minutes remaining with visual progress.",
+  "entryPoint": "dotnet run --project .",
+  "repository": "https://github.com/cemheren/quicksheet-cntdn"
+}
