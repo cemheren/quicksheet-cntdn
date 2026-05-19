@@ -23,7 +23,7 @@ Shows countdown timers to important dates with color-coded urgency and progress 
 In any QuickSheet cell, type:
 
 ```
-ext: github:cemheren/quicksheet-cntdn
+ext: github:Deskworks/quicksheet-cntdn
 ```
 
 ## Usage
