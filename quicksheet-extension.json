@@ -5,5 +5,5 @@
   "version": "1.0.0",
   "description": "Countdown to important dates — deadlines, launches, holidays, birthdays. Shows days, hours, minutes remaining with visual progress.",
   "entry": "dotnet run --project .",
-  "repository": "https://github.com/cemheren/quicksheet-cntdn"
+  "repository": "https://github.com/Deskworks/quicksheet-cntdn"
 }
